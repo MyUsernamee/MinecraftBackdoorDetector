@@ -4,8 +4,8 @@ Checks Minecraft logs to see if the jndi:ldap appears.
 # Usage
 
 First run
-1. npm install (run this in the directory you downloaded this.)
-2. node ldapchecker.js (MinecraftDirectoryLogs)
+1. `npm install (run this in the directory you downloaded this.)`
+2. `node ldapchecker.js (MinecraftDirectoryLogs)`
   
 # Please Note
 
